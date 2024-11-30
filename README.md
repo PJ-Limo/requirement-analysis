@@ -75,3 +75,4 @@ Reliability: The system should have an uptime of 99.9% and recover quickly from 
 
 ## Use Case Diagrams
 A Use Case Diagram is a vital tool in Requirement Analysis that helps visualize the functional requirements of a system. It provides a high-level, user-centric view of what the system should do by illustrating the interactions between users (actors) and system functionalities (use cases).
+![Workout Tracker Screenshot](https://raw.githubusercontent.com/PJ-Limo/requirement-analysis/main/images/alx-booking-uc.png)
