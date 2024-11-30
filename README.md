@@ -72,3 +72,6 @@ Security: Ensure data encryption, secure login, and protect against common vulne
 Scalability: The system should be able to scale horizontally to handle increased traffic.
 Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+
+## Use Case Diagrams
+A Use Case Diagram is a vital tool in Requirement Analysis that helps visualize the functional requirements of a system. It provides a high-level, user-centric view of what the system should do by illustrating the interactions between users (actors) and system functionalities (use cases).
