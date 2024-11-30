@@ -80,12 +80,12 @@ A Use Case Diagram is a vital tool in Requirement Analysis that helps visualize 
 ## Acceptance Criteria
 Acceptance Criteria are a set of predefined conditions or requirements that a software product must satisfy for a feature to be considered complete and acceptable by the stakeholders. These criteria are critical in Requirement Analysis as they provide clarity, alignment, and a basis for validation throughout the software development lifecycle. It is important because of the following reasons:
 
-Define Completion: Clearly specify when a feature is considered "done."
-Reduce Ambiguity: Transform vague requirements into actionable, measurable outcomes.
-Enhance Communication: Align stakeholders, developers, and testers with a shared understanding.
-Support Testing: Provide a foundation for creating test cases and validating functionality.
-Prevent Scope Creep: Limit the feature to explicitly agreed-upon requirements.
-Boost Confidence: Assure stakeholders that their expectations are understood and met.
+- Define Completion: Clearly specify when a feature is considered "done."
+- Reduce Ambiguity: Transform vague requirements into actionable, measurable outcomes.
+- Enhance Communication: Align stakeholders, developers, and testers with a shared understanding.
+- Support Testing: Provide a foundation for creating test cases and validating functionality.
+- Prevent Scope Creep: Limit the feature to explicitly agreed-upon requirements.
+- Boost Confidence: Assure stakeholders that their expectations are understood and met.
 
 ### Example: Acceptance Criteria for a Checkout Feature
 
