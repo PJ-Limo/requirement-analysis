@@ -76,3 +76,45 @@ Reliability: The system should have an uptime of 99.9% and recover quickly from 
 ## Use Case Diagrams
 A Use Case Diagram is a vital tool in Requirement Analysis that helps visualize the functional requirements of a system. It provides a high-level, user-centric view of what the system should do by illustrating the interactions between users (actors) and system functionalities (use cases).
 ![Use case diagram](https://raw.githubusercontent.com/PJ-Limo/requirement-analysis/main/images/alx-booking-uc.png)
+
+## Acceptance Criteria
+Acceptance Criteria are a set of predefined conditions or requirements that a software product must satisfy for a feature to be considered complete and acceptable by the stakeholders. These criteria are critical in Requirement Analysis as they provide clarity, alignment, and a basis for validation throughout the software development lifecycle. It is important because of the following reasons:
+
+Define Completion: Clearly specify when a feature is considered "done."
+Reduce Ambiguity: Transform vague requirements into actionable, measurable outcomes.
+Enhance Communication: Align stakeholders, developers, and testers with a shared understanding.
+Support Testing: Provide a foundation for creating test cases and validating functionality.
+Prevent Scope Creep: Limit the feature to explicitly agreed-upon requirements.
+Boost Confidence: Assure stakeholders that their expectations are understood and met.
+
+### Example: Acceptance Criteria for a Checkout Feature
+
+Feature: Checkout in a Booking Management System
+Acceptance Criteria
+Validation of Input
+
+Users must provide valid contact details (name, email, and phone number).
+The system should display an error message for invalid input fields (e.g., empty fields or invalid email format).
+Payment Process
+
+Users can select from at least two payment options (e.g., credit card and PayPal).
+The system should validate the payment details before proceeding (e.g., card number, expiry date).
+Payment must be processed securely using SSL encryption.
+Booking Confirmation
+
+Upon successful payment, the system generates a unique booking reference number.
+The user receives a confirmation email with booking details.
+Error Handling
+
+If payment fails, the system displays an appropriate error message (e.g., "Payment declined, please try again").
+Users can retry payment without losing their booking details.
+Mobile Responsiveness
+
+The checkout feature must be functional and visually consistent across desktop and mobile devices.
+Performance
+
+The checkout process, including payment and confirmation, must complete within 3 seconds under normal network conditions.
+Security
+
+Sensitive data, such as payment details, must not be stored in the system.
+The feature must comply with PCI-DSS standards for handling credit card transactions.
